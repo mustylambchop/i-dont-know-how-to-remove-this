@@ -48,10 +48,10 @@
 </div>
 <h2 style="text-align: center; font-family: jua; color: black; text-decoration: underline;"> templates </h2>
 
-<p style="font-family: jua; color: black; font-size: 1em; text-decoration: bold; text-align: center;"> AESPA FULL TEMPLATE </p>
+<b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> AESPA FULL TEMPLATES </b>
 <img src="https://drive.google.com/file/d/1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi/preview">
 <img src="https://drive.google.com/file/d/1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi/view?usp=sharing">
-<img src="">
+<img src="https://drive.google.com/file/d/1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi/view?usp=sharing">
 <img src="">
 <img src="">
 <img src="">
