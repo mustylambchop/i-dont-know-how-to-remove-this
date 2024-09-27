@@ -6,7 +6,8 @@
 </head>
 <body>
 <h2>Masterlists</h2>
-  <marquee srollamount="5" bgcolor="#E3E8FF" direction="down" height="50px" width="100px" hspace="50px" vspace="50px" behavior="slide" loop="1" position="center"> AESPA </marquee>
+  <marquee srollamount="5" bgcolor="#E3E8FF" direction="down" height="50px" width="100px" hspace="50px" vspace="50px" behavior="slide" loop="1"> AESPA </marquee>
+  <marquee style="font-type: bubble"> AESPA </marquee>
   <div class="container">
         <span class="word">Hello</span>
         <span class="word">World</span>
