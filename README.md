@@ -41,5 +41,10 @@
 <a href="https://shop.weverse.io/en/shop/GL_USD/artists/50/categories/1031">
         <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: left;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="19%" behavior="slide" loop="1"> LSFM </marquee>
 </a>
+<br>
+<div class="banner">
+        <h1 class="fade-in" style="text-align: center; font-family: jua;">PHOTOCARDS</h1>
+</div>
+<h2 style="text-align: center; font-family: jua; color: black;"> templates </h2>
 <body style="background-color: #e3e8ff;">
 </body>
