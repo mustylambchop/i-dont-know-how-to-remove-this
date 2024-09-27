@@ -1,4 +1,5 @@
 <head>
+<title> k-pop merch start-up !! </title>
 <style>
         .banner {
             width: 100%;
