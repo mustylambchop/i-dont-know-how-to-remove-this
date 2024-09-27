@@ -16,21 +16,19 @@
                 font-family: jua;
         }
 </style>
-  
 </head>
-
 <body>
-        <div class="banner">
+<div class="banner">
         <h1 style="text-align: center; font-family: jua;">MASTERLISTS</h1>
-    </div>
-
-  <a href="https://en.smtownandstore.com/product/celeb_aespa.html?cate_no=1132">
-  <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: center;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="33.33%" behavior="slide" loop="1"> AESPA </marquee>
-  </a>
-  <a href="https://shop.ive-starship.com">
-  <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: center;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="33.33%" behavior="slide" loop="1"> IVE </marquee>
-  </a>
+</div>
+<a href="https://en.smtownandstore.com/product/celeb_aespa.html?cate_no=1132">
+        <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: center;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="33.33%" behavior="slide" loop="1"> AESPA </marquee>
+</a>
+<a href="https://shop.ive-starship.com">
+        <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: center;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="33.33%" behavior="slide" loop="1"> IVE </marquee>
+</a>
+<a href="https://docs.google.com/spreadsheets/d/1aDj_6vgNwhFZYNus3rY0o6omspmZ5ntjcnJ6BnHYx9U/edit?usp=sharing">
+        <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: center;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="33.33%" behavior="slide" loop="1"> OTHER </marquee>
+</a>
 <body style="background-color: #e3e8ff;">
-
-
 </body>
