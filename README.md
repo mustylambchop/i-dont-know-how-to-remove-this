@@ -46,9 +46,9 @@
 <div class="banner">
         <h1 class="fade-in" style="text-align: center; font-family: jua;">PHOTOCARDS</h1>
 </div>
-<h2 style="text-align: center; font-family: jua; color: black;"> templates </h2>
+<h2 style="text-align: center; font-family: jua; color: black; text-decoration: underline;"> templates </h2>
 
-<p style="font-family: jua; color: black; font-size: 1em; text-decoration: bold; text-align: center;> AESPA FULL TEMPLATE </p>
+<p style="font-family: jua; color: black; font-size: 1em; text-decoration: bold; text-align: center;"> AESPA FULL TEMPLATE </p>
 <iframe src="https://drive.google.com/file/d/1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi/preview" width="640" height="480" allow="autoplay"></iframe>
 <img src="https://drive.google.com/file/d/1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi/preview" width="640" height="480" allow="autoplay">
 <img src="">
