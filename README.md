@@ -30,7 +30,7 @@
 </head>
 <body>
 <div class="fade-in">This text will fade in!</div>
-<div class="banner">
+<div class="banner fade-in">
         <h1 style="text-align: center; font-family: jua;">MASTERLISTS</h1>
 </div>
 <a href="https://en.smtownandstore.com/product/celeb_aespa.html?cate_no=1132">
