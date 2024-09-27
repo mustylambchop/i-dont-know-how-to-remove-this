@@ -38,7 +38,7 @@
 <a href="https://shop.ive-starship.com">
         <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: center;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="20%" hspace="20%" behavior="slide" loop="1"> IVE </marquee>
 </a>
-<a href="https://docs.google.com/spreadsheets/d/1aDj_6vgNwhFZYNus3rY0o6omspmZ5ntjcnJ6BnHYx9U/edit?usp=sharing">
+<a href="https://shop.weverse.io/en/shop/GL_USD/artists/50/categories/1031">
         <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: left;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="19%" behavior="slide" loop="1"> LSFM </marquee>
 </a>
 <body style="background-color: #e3e8ff;">
