@@ -2,8 +2,8 @@
 <style>
         .banner {
             width: 100%;
-            height: 200px;
-            background-color: #4CAF50;
+            height: 75px;
+            background-color: #d7fcf3;
             color: white;
             text-align: center;
             line-height: 200px;
