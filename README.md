@@ -10,6 +10,12 @@
             font-size: 2em;
         }
     </style>
+<style>
+        .id="AESPA" {
+                texat-align: center;
+                font-family: jua;
+        
+</style>
   
 </head>
 
@@ -19,7 +25,7 @@
     </div>
 
   <a href="https://en.smtownandstore.com/product/celeb_aespa.html?cate_no=1132">
-  <marquee id="AESPA" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="200px" behavior="slide" loop="1"> AESPA </marquee>
+  <marquee id="AESPA" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="49%" behavior="slide" loop="1"> AESPA </marquee>
   </a>
   <marquee srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="100px" behavior="slide" loop="1" text-align="center"> IVE </marquee>
 <body style="background-color: #e3e8ff;">
