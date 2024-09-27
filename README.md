@@ -12,6 +12,6 @@
         <span class="word">World</span>
     </div>
     <script src="script.js"></script>
-  {background-color: #e3e8ff;}
+<body style="background-color: #e3e8ff;"></body>
 </body>
 </html>
