@@ -9,15 +9,27 @@
             line-height: 200px;
             font-size: 2em;
         }
-    </style>
+</style>
 <style>
         .id="AESPA" {
                 texat-align: center;
                 font-family: jua;
         }
 </style>
+<style>
+        .fade-in {
+            opacity: 0;
+            animation: fadeIn 2s forwards;
+        }
+fadeIn {
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
 </head>
 <body>
+        <div class="fade-in">This text will fade in!</div>
 <div class="banner">
         <h1 style="text-align: center; font-family: jua;">MASTERLISTS</h1>
 </div>
