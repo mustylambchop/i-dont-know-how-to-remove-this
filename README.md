@@ -25,10 +25,10 @@
     </div>
 
   <a href="https://en.smtownandstore.com/product/celeb_aespa.html?cate_no=1132">
-  <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="49%" behavior="slide" loop="1"> AESPA </marquee>
+  <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: center;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="33.33%" behavior="slide" loop="1"> AESPA </marquee>
   </a>
   <a href="https://shop.ive-starship.com">
-  <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="100px" behavior="slide" loop="1" text-align="center"> IVE </marquee>
+  <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: center;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="33.33%" behavior="slide" loop="1"> IVE </marquee>
   </a>
 <body style="background-color: #e3e8ff;">
 
