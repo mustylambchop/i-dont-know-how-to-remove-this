@@ -3,7 +3,7 @@
         .banner {
             width: 100%;
             height: 75px;
-            background-color: #b1d0ff
+            background-color: #c3dcfe;
             color: white;
             text-align: center;
             line-height: 200px;
@@ -25,7 +25,7 @@
     </div>
 
   <a href="https://en.smtownandstore.com/product/celeb_aespa.html?cate_no=1132">
-  <marquee style="font-family: jua; color: black;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="49%" behavior="slide" loop="1"> AESPA </marquee>
+  <marquee style="font-family: jua; color: black; font-size= 20px" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="49%" behavior="slide" loop="1"> AESPA </marquee>
   </a>
   <marquee srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="100px" behavior="slide" loop="1" text-align="center"> IVE </marquee>
 <body style="background-color: #e3e8ff;">
