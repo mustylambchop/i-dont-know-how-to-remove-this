@@ -14,7 +14,7 @@
         .id="AESPA" {
                 texat-align: center;
                 font-family: jua;
-        
+        }
 </style>
   
 </head>
