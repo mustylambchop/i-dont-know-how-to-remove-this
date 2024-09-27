@@ -30,7 +30,7 @@
 </head>
 <body>
 <div class="banner">
-        <h1 class="fade-in" style="text-align: center; font-family: jua;">MASTERLISTS</h1>
+        <h1 class="fade-in" style="text-align: center; font-family: jua;">MERCH</h1>
 </div>
 <a href="https://en.smtownandstore.com/product/celeb_aespa.html?cate_no=1132">
         <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: right;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="20%" behavior="slide" loop="1"> AESPA </marquee>
