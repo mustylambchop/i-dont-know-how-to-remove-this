@@ -5,7 +5,6 @@
   <style> banner {width: 100%; height: 200px; background-color: #E3E8FF; color: d7fcf3; text-align: center; line-height: 200px; font-size: 2em} </style>
 </head>
 <body>
-<header class="main header" role="banner"></header>
-  
+<h2>Masterlists</h2>
 </body>
 </html>
