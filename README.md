@@ -7,6 +7,6 @@
 </head>
 <body>
 <h2>Masterlists</h2>
-  <marquee scrollamount="10" bgcolor="white" direction="down" height="50px" width="1500px" behavior="scroll" </marquee>
+  <marquee scrollamount="10" bgcolor="white" direction="down" height="50px" width="1500px" behavior="scroll"> </marquee>
 </body>
 </html>
