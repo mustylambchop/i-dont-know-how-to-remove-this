@@ -5,8 +5,8 @@
   <style> banner {width: 100%; height: 200px; background-color: #E3E8FF; color: d7fcf3; text-align: center; line-height: 200px; font-size: 2em} </style>
 </head>
 <body>
-<h2>Masterlists</h2>
-  <marquee srollamount="5" bgcolor="#E3E8FF" direction="down" height="50px" width="100px" hspace="50px" vspace="50px" behavior="slide" loop="1"> AESPA </marquee>
+<h1>Masterlists</h1>
+  <marquee srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="100px" behavior="slide" loop="1"> AESPA </marquee>
   <marquee style="font-type: bubble"> AESPA </marquee>
   <div class="container">
         <span class="word">Hello</span>
