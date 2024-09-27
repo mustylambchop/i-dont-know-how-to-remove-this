@@ -29,9 +29,8 @@
     </style>
 </head>
 <body>
-<div class="fade-in">This text will fade in!</div>
-<div class="banner fade-in">
-        <h1 style="text-align: center; font-family: jua;">MASTERLISTS</h1>
+<div class="banner">
+        <h1 class="fade-in" style="text-align: center; font-family: jua;">MASTERLISTS</h1>
 </div>
 <a href="https://en.smtownandstore.com/product/celeb_aespa.html?cate_no=1132">
         <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: center;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="33.33%" behavior="slide" loop="1"> AESPA </marquee>
