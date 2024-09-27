@@ -11,5 +11,6 @@
         <span class="word">Hello</span>
         <span class="word">World</span>
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
