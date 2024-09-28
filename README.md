@@ -30,6 +30,7 @@
     </style>
 </head>
 <body>
+<a href="https://mustylambchop.github.io/waverlytse.github.io/"_blank">GitHub</a>
 <div class="banner">
         <h1 class="fade-in" style="text-align: center; font-family: jua;">MERCH</h1>
 </div>
