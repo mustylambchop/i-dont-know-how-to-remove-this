@@ -45,7 +45,7 @@
         <p style="font-family: jua; color: black; text-align: left;"> Giselle - Born October 30, 2000 - Name : Aeri Uchinaga - Ethnicity : Japanese - Positions : Main Rapper, Vocalist </p>
         <p style="font-family: jua; color: black; text-align: left;"> Winter - Born January 1, 2001 - Name : Kim Minjeong - Ethnicity : Korean - Positions : Lead Vocalist, Lead Dancer </p>
         <p style="font-family: jua; color: black; text-align: left;"> NingNing - Born October 23, 2002 - Name : Ning Yizhuo - Ethnicity : Chinese - Positions : Main Vocalist </p>
-        <p style="font-family: jua; color: black; text-align: left;"> With their unique sound and stunning visuals, AESPA have risen to great popularity. Their next release comes out on October 21st, check out their stellar discography and jaw-dropping music videos to get a taste before their comeback! Their music video of 'Armageddom' is linked above. </p>
+        <p style="font-family: jua; color: black; text-align: left;"> With their unique sound and stunning visuals, AESPA has risen to great popularity. Their next release comes out on October 21st, check out their stellar discography and jaw-dropping music videos to get a taste before their comeback! Their music video of 'Armageddom' is linked above. </p>
 <br>
 <br>
 <p style="font-family: jua; color: black; text-align: left;"> BTS are a seven (7) member K-pop boy group who debuted on June 13, 2013, under the agency BigHit Entertainment, now a subsidiary company to Hybe Corporation.</p>
@@ -53,11 +53,11 @@
         <p style="font-family: jua; color: black; text-align: left;"> RM - Born September 12, 1994 - Name : Kim Namjoon - Ethnicity : Korean - Positions : Leader, Main Rapper </p>
         <p style="font-family: jua; color: black; text-align: left;"> Jin - Born December 4, 1992 - Name : Kim Seokjin - Ethnicity : Korean - Positions : Sub-Vocalist, Visual </p>
         <p style="font-family: jua; color: black; text-align: left;"> Suga - Born March 9, 1993 - Name : Min Yoongi - Ethnicity : Korean - Positions : Lead Rapper </p>
-        <p style="font-family: jua; color: black; text-align: left;"> J-Hope - Born Feburary 18, 1994 - Name : Jung Hoseok - Ethnicity : Korean - Positions : Main Dancer, Lead Rapper, Vocalist </p>
+        <p style="font-family: jua; color: black; text-align: left;"> J-Hope - Born February 18, 1994 - Name : Jung Hoseok - Ethnicity : Korean - Positions : Main Dancer, Lead Rapper, Vocalist </p>
         <p style="font-family: jua; color: black; text-align: left;"> Jimin - Born October 13, 1995 - Name : Park Jimin - Ethnicity : Korean - Positions : Lead Dancer, Lead Vocalist </p>
         <p style="font-family: jua; color: black; text-align: left;"> V - Born December 30, 1995 - Name : Kim Taehyung - Ethnicity : Korean - Positions : Dancer, Sub-Vocalist, Face of the Group </p>
         <p style="font-family: jua; color: black; text-align: left;"> Jungkook - Born September 1, 1997 - Name : Jeon Jeongguk - Ethnicity : Korean - Positions : Main Vocalist, Dancer, Center, Sub-Rapper </p>
-        <p style="font-family: jua; color: black; text-align: left;"> Despite being on a group hiatus to complete their mandatory military service since 2022, BTS remains as the most popular k-pop group, achieveing global success even as they explore their solo careers. They are set to reunite in 2025, so in the meantime check out their wide range of music and enjoy the ride! Their music video of 'Blood Sweat & Tears' is linked above.
+        <p style="font-family: jua; color: black; text-align: left;"> Despite being on a group hiatus to complete their mandatory military service since 2022, BTS remains as the most popular k-pop group, achieving global success even as they explore their solo careers. They are set to reunite in 2025, so in the meantime check out their wide range of music and enjoy the ride! Their music video of 'Blood Sweat & Tears' is linked above.
 <br>
 <br>
 <p style="font-family: jua; color: black; text-align: left;"> LE SSERAFIM are currently a five (5) member K-pop girl group who debuted on May 2, 2022, under the subsidiary company Source Music of Hybe Corporation.</p>
@@ -67,7 +67,7 @@
         <p style="font-family: jua; color: black; text-align: left;"> Yunjin - Born October 8, 2001 - Name : Huh Yunjin - Ethnicity : Korean - Positions : (unofficial: Main Vocalist) </p>
         <p style="font-family: jua; color: black; text-align: left;"> Kazuha - Born August 9, 2003 - Name : Nakamura Kazuha - Ethnicity : Japanese - Positions : (unofficial: Main Dancer, Vocalist, Lead Rapper, Visual) </p>
         <p style="font-family: jua; color: black; text-align: left;"> Eunchae - Born November 10, 2006 - Name : Hong Eunchae - Ethnicity : Korean - Positions : (unofficial: Main Dancer, Vocalist, Sub-Rapper) </p>
-        <p style="font-family: jua; color: black; text-align: left;"> After losing a member, their rough start was shown fruitful as LE SSERAFIM quickly gained popularity for both their performances and personalities. Their lastest EP titled 'CRAZY' with the main track of the same name was released on August 30, 2024, check it out along with more of their hits! Their music video for 'Easy' is linked above.
+        <p style="font-family: jua; color: black; text-align: left;"> After losing a member, their rough start was shown fruitful as LE SSERAFIM quickly gained popularity for both their performances and personalities. Their latest EP titled 'CRAZY' with the main track of the same name was released on August 30, 2024, check it out along with more of their hits! Their music video for 'Easy' is linked above.
 <br>
 <div class="banner">
         <h2 class="fade-in" style="text-align: center; font-family: jua;">PHOTOCARD TEMPLATES</h2>
