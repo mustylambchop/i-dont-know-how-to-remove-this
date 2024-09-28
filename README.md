@@ -37,6 +37,12 @@
         <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: left;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="19%" behavior="slide" loop="1"> LSFM </marquee>
 </a>
 <br>
+<p style="font-family: jua; color: black; text-align: left;"> AESPA are a four (4) member K-pop girl group who debuted on November 17, 2020, under the agency SM Entertainment.</p>
+<br>
+<p style="font-family: jua; color: black; text-align: left;"> BTS are a seven (7) member K-pop boy group who debuted on June 13, 2013, under the agency BigHit Entertainment, now a subsidary company to Hybe Corporation.</p>
+<br>
+<p style="font-family: jua; color: black; text-align: left;"> LE SSERAFIM are a five (5) member K-pop girl group who debuted on May 2, 2022, under the subsidary company Source Music of Hybe Corporation.</p>
+<br>
 <div class="banner">
         <h2 class="fade-in" style="text-align: center; font-family: jua;">PHOTOCARD TEMPLATES</h2>
 </div>
