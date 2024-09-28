@@ -53,8 +53,8 @@
 <img src="https://drive.google.com/file/d/1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi/view?usp=sharing">
 <img src="https://drive.google.com/file/d/1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi/view?usp=sharing">
 <img src="https://drive.google.com/drive/folders/18gqJNswQp847_NkeFkl3-nsN9Vb00NKJ">
-<img src="">
-<img src="">
+<img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview">
+<img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview">
 <img src="">
 <img src="">
 <img src="">
