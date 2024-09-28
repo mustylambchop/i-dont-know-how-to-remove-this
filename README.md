@@ -49,13 +49,13 @@
 <h2 style="text-align: center; font-family: jua; color: black; text-decoration: underline;"> templates </h2>
 
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> AESPA FULL TEMPLATES </b>
-<img src="https://drive.google.com/file/d/1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi/preview">
-<img src="https://drive.google.com/file/d/1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi/view?usp=sharing">
-<img src="https://drive.google.com/file/d/1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi/view?usp=sharing">
-<img src="https://drive.google.com/drive/folders/18gqJNswQp847_NkeFkl3-nsN9Vb00NKJ">
-<img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview">
-<img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview">
-<img src="https://pbs.twimg.com/media/FMYAqVRaIAAJI7a.jpg:large">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
 <img src="https://drive.usercontent.google.com/download?id=1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi">
 <img src="">
 <img src="">
