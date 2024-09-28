@@ -111,11 +111,6 @@
 <br>
 <br>
 <b> Photocard collecting is highly advised against!! (requires financial stability and rationality)</b>
-<br>
-<br>
-<br>
-<br>
-<br>
 <p style="text-align: right"> ctto 9/24 </p>
 <body style="background-color: #e3e8ff;">
 </body>
