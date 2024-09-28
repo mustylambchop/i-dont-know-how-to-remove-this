@@ -49,6 +49,8 @@
 <h2 style="text-align: center; font-family: jua; color: black; text-decoration: underline;"> templates </h2>
 
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> AESPA FULL TEMPLATES </b>
+<iframe src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview" width="640" height="480" allow="autoplay"></iframe>
+<img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview" width="640" height="480" allow="autoplay">
 <img src="">
 <img src="">
 <img src="">
@@ -56,7 +58,6 @@
 <img src="">
 <img src="">
 <img src="">
-<img src="https://drive.usercontent.google.com/download?id=1OGdkAGAX46vFuzQEHmi5ZN33WcrqMWHi">
 <img src="">
 <img src="">
 <img src="">
