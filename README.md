@@ -99,5 +99,9 @@
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289407966583459850/IMG_6256.png?ex=66f8b63f&is=66f764bf&hm=c7b7a0bc1f9bbdbf880320c9b54a5e589fcd8e86027da1847e6d9183f0279da2&" width="19%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289407963953631333/IMG_6254.png?ex=66f8b63e&is=66f764be&hm=fb0224875ac249832b98a8bc42a6f2ff8341ee46993bf6fcf8f3522446d29575&" width="19%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289407962292686898/IMG_6253.png?ex=66f8b63e&is=66f764be&hm=0043542c09866cdcb287a6ea04a1692f8719bda4982b28de2d86705b889d4677&" width="19%">
+<br>
+<br>
+<br>
+<b> Photocard collecting is highly advised against!! (requires financial stability and rationality)</b> <p style="text-align: right">ctto (all on x/twt 2024: aespa-@aespa_pclist , bts-@912daze , lsfm-@pocakkura</p>
 <body style="background-color: #e3e8ff;">
 </body>
