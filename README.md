@@ -104,6 +104,9 @@
 <b> Photocard collecting is highly advised against!! (requires financial stability and rationality)</b>
 <br>
 <br>
+<br>
+<br>
+<br>
 <p style="text-align: right"> ctto (all on x/twt 2024): aespa-@aespa_pclist , bts-@912daze , lsfm-@pocakkura </p>
 <body style="background-color: #e3e8ff;">
 </body>
