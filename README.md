@@ -101,8 +101,8 @@
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289407962292686898/IMG_6253.png?ex=66f8b63e&is=66f764be&hm=0043542c09866cdcb287a6ea04a1692f8719bda4982b28de2d86705b889d4677&" width="19%">
 <br>
 <br>
+<b> Photocard collecting is highly advised against!! (requires financial stability and rationality)</b>
 <br>
-<b> Photocard collecting is highly advised against!! (requires financial stability and rationality)</b> 
 <p style="text-align: right"> ctto (all on x/twt 2024): aespa-@aespa_pclist , bts-@912daze , lsfm-@pocakkura </p>
 <body style="background-color: #e3e8ff;">
 </body>
