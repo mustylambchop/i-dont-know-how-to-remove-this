@@ -12,12 +12,6 @@
         }
 </style>
 <style>
-        .id="AESPA" {
-                texat-align: center;
-                font-family: jua;
-        }
-</style>
-<style>
         .fade-in {
             opacity: 0;
             animation: fadeIn 2s forwards;
@@ -44,15 +38,15 @@
 </a>
 <br>
 <div class="banner">
-        <h1 class="fade-in" style="text-align: center; font-family: jua;">PHOTOCARD TEMPLATES</h1>
+        <h2 class="fade-in" style="text-align: center; font-family: jua;">PHOTOCARD TEMPLATES</h2>
 </div>
-<h2 style="text-align: center; font-family: jua; color: black; text-decoration: underline;"> - AESPA BTS LESSERAFIM - </h2>
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> AESPA FULL TEMPLATES </b>
         <br>
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412527624687716/IMG_6269.png?ex=66f8ba7e&is=66f768fe&hm=fad8c389305e6de132d27b872e6d5c4f14386ce584a9ae8ff5aedec4bdf4ff65&" width="24%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289407972128198697/IMG_6258.png?ex=66f8b640&is=66f764c0&hm=37444c20a7c2d4d6c1bbede7393d213e1eac46fd1fd09c17d2bff839593900b0&" width="24%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412912384839680/IMG_6271.png?ex=66f8bada&is=66f7695a&hm=3288b01e4b7bca38c287789fb0916066b737581306337b77bda06d4a63298495&" width="24%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289407977597702150/IMG_6260.png?ex=66f8b641&is=66f764c1&hm=b9698c45891ff37f9d2fd25fe776c3822f8d8a6c4b31197c58b8ec72cab97f04&" width="24%">
+        <br>
         <br>
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> BTS FULL TEMPLATES </b>
         <br>
@@ -63,6 +57,7 @@
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412521714778112/IMG_6266.png?ex=66f8ba7d&is=66f768fd&hm=a81ce95043b2c6c889dd7a3954d3c15bf5ef2a9a8fdba5ab92488c7d942d064b&" width="49%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412523430383700/IMG_6267.png?ex=66f8ba7d&is=66f768fd&hm=b57cfd70d71426f485a28ff60264aeda1cdff0441cf297c261ba55ec60cb1a3b&" width="49%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412525053710346/IMG_6268.png?ex=66f8ba7e&is=66f768fe&hm=490691bd41c9dd44b417f337537b3f0dcd2ad6c2a3b179f3c703f6a05b3e926d&" width="49%">
+        <br>
         <br>
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> LESSERAFIM FULL TEMPLATES </b>
         <br>
