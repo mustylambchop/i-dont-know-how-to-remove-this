@@ -58,6 +58,7 @@
         <br>
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> BTS FULL TEMPLATES </b>
         <br>
+        <img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview" width="640" height="480"></img>
         <img src="">
         <img src="">
         <img src="">
