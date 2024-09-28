@@ -37,11 +37,31 @@
         <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: left;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="19%" behavior="slide" loop="1"> LSFM </marquee>
 </a>
 <br>
+<br>
 <p style="font-family: jua; color: black; text-align: left;"> AESPA are a four (4) member K-pop girl group who debuted on November 17, 2020, under the agency SM Entertainment.</p>
+        <p style="font-family: jua; color: black; text-align: left;"> Member Introductions: </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Karina - Born April 11, 2000 - Name : Yu Jimin - Ethnicity : Korean - Positions : Leader, Main Dancer, Visual, Center, Sub-Rapper, Sub-Vocalist </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Giselle - Born October 30, 2000 - Name : Aeri Uchinaga - Ethnicity : Japanese - Positions : Main Rapper, Vocalist </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Winter - Born January 1, 2001 - Name : Kim Minjeong - Ethnicity : Korean - Positions : Lead Vocalist, Lead Dancer </p>
+        <p style="font-family: jua; color: black; text-align: left;"> NingNing - Born October 23, 2002 - Name : Ning Yizhuo - Ethnicity : Chinese - Positions : Main Vocalist </p>
 <br>
 <p style="font-family: jua; color: black; text-align: left;"> BTS are a seven (7) member K-pop boy group who debuted on June 13, 2013, under the agency BigHit Entertainment, now a subsidary company to Hybe Corporation.</p>
+        <p style="font-family: jua; color: black; text-align: left;"> Member Introductions: </p>
+        <p style="font-family: jua; color: black; text-align: left;"> RM - Born September 12, 1994 - Name : Kim Namjoon - Ethnicity : Korean - Positions : Leader, Main Rapper </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Jin - Born December 4, 1992 - Name : Kim Seokjin - Ethnicity : Korean - Positions : Sub-Vocalist, Visual </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Suga - Born March 9, 1993 - Name : Min Yoongi - Ethnicity : Korean - Positions : Leader, Lead Rapper </p>
+        <p style="font-family: jua; color: black; text-align: left;"> J-Hope - Born Feburary 18, 1994 - Name : Jung Hoseok - Ethnicity : Korean - Positions : Main Dancer, Lead Rapper, Vocalist </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Jimin - Born October 13, 1995 - Name : Park Jimin - Ethnicity : Korean - Positions : Lead Dancer, Lead Vocalist </p>
+        <p style="font-family: jua; color: black; text-align: left;"> V - Born December 30, 1995 - Name : Kim Taehyung - Ethnicity : Korean - Positions : Dancer, Sub-Vocalist, Face of the Group </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Jungkook - Born September 1, 1997 - Name : Jeon Jeongguk - Ethnicity : Korean - Positions : Main Vocalist, Dancer, Center, Sub-Rapper </p>
 <br>
-<p style="font-family: jua; color: black; text-align: left;"> LE SSERAFIM are a five (5) member K-pop girl group who debuted on May 2, 2022, under the subsidary company Source Music of Hybe Corporation.</p>
+<p style="font-family: jua; color: black; text-align: left;"> LE SSERAFIM are a currently a five (5) member K-pop girl group who debuted on May 2, 2022, under the subsidary company Source Music of Hybe Corporation.</p>
+        <p style="font-family: jua; color: black; text-align: left;"> Member Introductions: </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Chaewon - Born August 1, 2000 - Name : Kim Chaewon - Ethnicity : Korean - Positions : Leader, (unofficial: Lead Vocalist, Lead Dancer, Face of the Group) </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Sakura - Born March 19, 1998 - Name : Miyawaki Sakura - Ethnicity : Japanese - Positions : (unofficial: Vocalist, Dancer) </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Yunjin - Born October 8, 2001 - Name : Huh Yunjin - Ethnicity : Korean - Positions : (unofficial: Main Vocalist) </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Kazuha - Born August 9, 2003 - Name : Nakamura Kazuha - Ethnicity : Japanese - Positions : (unofficial: Main Dancer, Vocalist, Lead Rapper, Visual) </p>
+        <p style="font-family: jua; color: black; text-align: left;"> Eunchae - Born November 10, 2006 - Name : Hong Eunchae - Ethnicity : Korean - Positions : (unofficial: Main Dancer, Vocalist, Sub-Rapper) </p>
 <br>
 <div class="banner">
         <h2 class="fade-in" style="text-align: center; font-family: jua;">PHOTOCARD TEMPLATES</h2>
