@@ -47,24 +47,28 @@
         <h1 class="fade-in" style="text-align: center; font-family: jua;">PHOTOCARDS</h1>
 </div>
 <h2 style="text-align: center; font-family: jua; color: black; text-decoration: underline;"> templates </h2>
-
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> AESPA FULL TEMPLATES </b>
-<br>
-<iframe src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview" width="640" height="480"></iframe>
-<img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview" width="640" height="480" allow="autoplay">
-<img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/view?usp=sharing">
-<img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/view">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+        <br>
+        <iframe src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview" width="640" height="480"></iframe>
+        <img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview" width="640" height="480" allow="autoplay">
+        <img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/view?usp=sharing">
+        <img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/view">
+        <img src="">
+<b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> AESPA FULL TEMPLATES </b>
+        <br>
+        <img src="">
+        <img src="">
+        <img src="">
+        <img src="">
+        <img src="">
+        <img src="">
+        <img src="">
+<b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> AESPA FULL TEMPLATES </b>
+        <br>
+        <img src="">
+        <img src="">
+        <img src="">
+        <img src="">
+        <img src="">
 <body style="background-color: #e3e8ff;">
 </body>
