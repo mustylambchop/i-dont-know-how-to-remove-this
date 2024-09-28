@@ -57,7 +57,7 @@
         <br>
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> BTS FULL TEMPLATES </b>
         <br>
-        <img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview" width="640" height="480"></img>
+        <img src="https://drive.google.com/file/d/1NVV3Dltm24NzbmkcsxMeyutlIx5e3Eca/preview" width="640" height="480">
         <img src="">
         <img src="">
         <img src="">
@@ -68,7 +68,7 @@
         <br>
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> LESSERAFIM FULL TEMPLATES </b>
         <br>
-        <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289405600718913596/IMG_6252.png?ex=66f8b40b&is=66f7628b&hm=2142af754b892cd60e59fca4d349ef8cdb4ea01f82e113ce79f00b7c6cfd40eb&">
+        <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289405600718913596/IMG_6252.png?ex=66f8b40b&is=66f7628b&hm=2142af754b892cd60e59fca4d349ef8cdb4ea01f82e113ce79f00b7c6cfd40eb&" width="19%">
         <img src="">
         <img src="">
         <img src="">
