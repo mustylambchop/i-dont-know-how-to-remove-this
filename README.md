@@ -45,7 +45,7 @@
         <p style="font-family: jua; color: black; text-align: left;"> Winter - Born January 1, 2001 - Name : Kim Minjeong - Ethnicity : Korean - Positions : Lead Vocalist, Lead Dancer </p>
         <p style="font-family: jua; color: black; text-align: left;"> NingNing - Born October 23, 2002 - Name : Ning Yizhuo - Ethnicity : Chinese - Positions : Main Vocalist </p>
 <br>
-<p style="font-family: jua; color: black; text-align: left;"> BTS are a seven (7) member K-pop boy group who debuted on June 13, 2013, under the agency BigHit Entertainment, now a subsidary company to Hybe Corporation.</p>
+<p style="font-family: jua; color: black; text-align: left;"> BTS are a seven (7) member K-pop boy group who debuted on June 13, 2013, under the agency BigHit Entertainment, now a subsidiary company to Hybe Corporation.</p>
         <p style="font-family: jua; color: black; text-align: left;"> Member Introductions: </p>
         <p style="font-family: jua; color: black; text-align: left;"> RM - Born September 12, 1994 - Name : Kim Namjoon - Ethnicity : Korean - Positions : Leader, Main Rapper </p>
         <p style="font-family: jua; color: black; text-align: left;"> Jin - Born December 4, 1992 - Name : Kim Seokjin - Ethnicity : Korean - Positions : Sub-Vocalist, Visual </p>
@@ -55,7 +55,7 @@
         <p style="font-family: jua; color: black; text-align: left;"> V - Born December 30, 1995 - Name : Kim Taehyung - Ethnicity : Korean - Positions : Dancer, Sub-Vocalist, Face of the Group </p>
         <p style="font-family: jua; color: black; text-align: left;"> Jungkook - Born September 1, 1997 - Name : Jeon Jeongguk - Ethnicity : Korean - Positions : Main Vocalist, Dancer, Center, Sub-Rapper </p>
 <br>
-<p style="font-family: jua; color: black; text-align: left;"> LE SSERAFIM are a currently a five (5) member K-pop girl group who debuted on May 2, 2022, under the subsidary company Source Music of Hybe Corporation.</p>
+<p style="font-family: jua; color: black; text-align: left;"> LE SSERAFIM are currently a five (5) member K-pop girl group who debuted on May 2, 2022, under the subsidiary company Source Music of Hybe Corporation.</p>
         <p style="font-family: jua; color: black; text-align: left;"> Member Introductions: </p>
         <p style="font-family: jua; color: black; text-align: left;"> Chaewon - Born August 1, 2000 - Name : Kim Chaewon - Ethnicity : Korean - Positions : Leader, (unofficial: Lead Vocalist, Lead Dancer, Face of the Group) </p>
         <p style="font-family: jua; color: black; text-align: left;"> Sakura - Born March 19, 1998 - Name : Miyawaki Sakura - Ethnicity : Japanese - Positions : (unofficial: Vocalist, Dancer) </p>
