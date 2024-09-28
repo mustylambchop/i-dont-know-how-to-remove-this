@@ -57,7 +57,7 @@
         <p style="font-family: jua; color: black; text-align: left;"> Jimin - Born October 13, 1995 - Name : Park Jimin - Ethnicity : Korean - Positions : Lead Dancer, Lead Vocalist </p>
         <p style="font-family: jua; color: black; text-align: left;"> V - Born December 30, 1995 - Name : Kim Taehyung - Ethnicity : Korean - Positions : Dancer, Sub-Vocalist, Face of the Group </p>
         <p style="font-family: jua; color: black; text-align: left;"> Jungkook - Born September 1, 1997 - Name : Jeon Jeongguk - Ethnicity : Korean - Positions : Main Vocalist, Dancer, Center, Sub-Rapper </p>
-        <p style="font-family: jua; color: black; text-align: left;"> Despite being on a group hiatus to complete their mandatory military service since 2022, BTS remains as the most popular k-pop group, achieving global success even as they explore their solo careers. They are set to reunite in 2025, so in the meantime check out their wide range of music and enjoy the ride! Their music video of 'Blood Sweat & Tears' is linked above.
+        <p style="font-family: jua; color: black; text-align: left;"> Despite being on a group hiatus to complete their mandatory military service since 2022, BTS remains as the most popular k-pop group, achieving global success even as they explore their solo careers. They are set to reunite in 2025, so in the meantime check out their wide range of music and enjoy the ride! Their music video of 'Blood Sweat & Tears' is linked above. </p>
 <br>
 <br>
 <p style="font-family: jua; color: black; text-align: left;"> LE SSERAFIM are currently a five (5) member K-pop girl group who debuted on May 2, 2022, under the subsidiary company Source Music of Hybe Corporation.</p>
@@ -67,7 +67,7 @@
         <p style="font-family: jua; color: black; text-align: left;"> Yunjin - Born October 8, 2001 - Name : Huh Yunjin - Ethnicity : Korean - Positions : (unofficial: Main Vocalist) </p>
         <p style="font-family: jua; color: black; text-align: left;"> Kazuha - Born August 9, 2003 - Name : Nakamura Kazuha - Ethnicity : Japanese - Positions : (unofficial: Main Dancer, Vocalist, Lead Rapper, Visual) </p>
         <p style="font-family: jua; color: black; text-align: left;"> Eunchae - Born November 10, 2006 - Name : Hong Eunchae - Ethnicity : Korean - Positions : (unofficial: Main Dancer, Vocalist, Sub-Rapper) </p>
-        <p style="font-family: jua; color: black; text-align: left;"> After losing a member, their rough start was shown fruitful as LE SSERAFIM quickly gained popularity for both their performances and personalities. Their latest EP titled 'CRAZY' with the main track of the same name was released on August 30, 2024, check it out along with more of their hits! Their music video for 'Easy' is linked above.
+        <p style="font-family: jua; color: black; text-align: left;"> After losing a member, their rough start was shown fruitful as LE SSERAFIM quickly gained popularity for both their performances and personalities. Their latest EP titled 'CRAZY' with the main track of the same name was released on August 30, 2024, check it out along with more of their hits! Their music video for 'Easy' is linked above. </p>
 <br>
 <div class="banner">
         <h2 class="fade-in" style="text-align: center; font-family: jua;">PHOTOCARD TEMPLATES</h2>
