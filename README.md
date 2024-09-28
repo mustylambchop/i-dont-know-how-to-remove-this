@@ -79,6 +79,7 @@
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289407977597702150/IMG_6260.png?ex=66f8b641&is=66f764c1&hm=b9698c45891ff37f9d2fd25fe776c3822f8d8a6c4b31197c58b8ec72cab97f04&" width="24%">
         <br>
         <br>
+        <br>
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> BTS FULL TEMPLATES </b>
         <br>
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412514815414374/IMG_6262.png?ex=66f8ba7b&is=66f768fb&hm=80256a3d4f6909cbb872aa5e985fb85463fd89973bcdb4625e2b3e314d4f544b&" width="49%">
@@ -88,6 +89,7 @@
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412521714778112/IMG_6266.png?ex=66f8ba7d&is=66f768fd&hm=a81ce95043b2c6c889dd7a3954d3c15bf5ef2a9a8fdba5ab92488c7d942d064b&" width="49%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412523430383700/IMG_6267.png?ex=66f8ba7d&is=66f768fd&hm=b57cfd70d71426f485a28ff60264aeda1cdff0441cf297c261ba55ec60cb1a3b&" width="49%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412525053710346/IMG_6268.png?ex=66f8ba7e&is=66f768fe&hm=490691bd41c9dd44b417f337537b3f0dcd2ad6c2a3b179f3c703f6a05b3e926d&" width="49%">
+        <br>
         <br>
         <br>
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> LESSERAFIM FULL TEMPLATES </b>
