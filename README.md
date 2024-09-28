@@ -69,6 +69,8 @@
 <div class="banner">
         <h2 class="fade-in" style="text-align: center; font-family: jua;">PHOTOCARD TEMPLATES</h2>
 </div>
+<br>
+<br>
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> AESPA FULL TEMPLATES </b>
         <br>
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412527624687716/IMG_6269.png?ex=66f8ba7e&is=66f768fe&hm=fad8c389305e6de132d27b872e6d5c4f14386ce584a9ae8ff5aedec4bdf4ff65&" width="24%">
