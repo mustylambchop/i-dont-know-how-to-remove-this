@@ -27,13 +27,13 @@
 <div class="banner">
         <h1 class="fade-in" style="text-align: center; font-family: jua;">INTRO</h1>
 </div>
-<a href="https://en.smtownandstore.com/product/celeb_aespa.html?cate_no=1132">
+<a href="https://youtu.be/nFYwcndNuOY?si=YUY3Lvk4p4_SljqR">
         <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: right;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="20%" behavior="slide" loop="1"> AESPA </marquee>
 </a>
-<a href="https://shop.weverse.io/en/shop/GL_USD/artists/2/categories/175">
+<a href="https://youtu.be/hmE9f-TEutc?si=0OJNHB-k-Y14TeQh">
         <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: center;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="20%" hspace="20%" behavior="slide" loop="1"> BTS </marquee>
 </a>
-<a href="https://shop.weverse.io/en/shop/GL_USD/artists/50/categories/1031">
+<a href="https://youtu.be/bNKXxwOQYB8?si=h19pyRvQY-8gbTuQ">
         <marquee style="font-family: jua; color: black; font-size: 1.5em; text-decoration: underline; text-align: left;" srollamount="7" bgcolor="#E3E8FF" direction="down" height="50px" width="19%" behavior="slide" loop="1"> LSFM </marquee>
 </a>
 <br>
@@ -71,7 +71,9 @@
 </div>
 <br>
 <br>
+<a href="https://x.com/aespa_pclist">
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> AESPA FULL TEMPLATES </b>
+</a>
         <br>
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412527624687716/IMG_6269.png?ex=66f8ba7e&is=66f768fe&hm=fad8c389305e6de132d27b872e6d5c4f14386ce584a9ae8ff5aedec4bdf4ff65&" width="24%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289407972128198697/IMG_6258.png?ex=66f8b640&is=66f764c0&hm=37444c20a7c2d4d6c1bbede7393d213e1eac46fd1fd09c17d2bff839593900b0&" width="24%">
@@ -80,7 +82,9 @@
         <br>
         <br>
         <br>
+<a href="https://x.com/912daze">
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> BTS FULL TEMPLATES </b>
+</a>
         <br>
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412514815414374/IMG_6262.png?ex=66f8ba7b&is=66f768fb&hm=80256a3d4f6909cbb872aa5e985fb85463fd89973bcdb4625e2b3e314d4f544b&" width="49%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289412516140814336/IMG_6263.png?ex=66f8ba7b&is=66f768fb&hm=20f4a8b9dff9313e0d81bf39c20ef7a5da60a288247bc016da172d667f6fcf8b&" width="49%">
@@ -92,7 +96,9 @@
         <br>
         <br>
         <br>
+<a href="https://x.com/pocakkura">
 <b style="font-family: jua; color: black; font-size: 1em; text-align: left;"> LESSERAFIM FULL TEMPLATES </b>
+</a>
         <br>
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289405600718913596/IMG_6252.png?ex=66f8b40b&is=66f7628b&hm=2142af754b892cd60e59fca4d349ef8cdb4ea01f82e113ce79f00b7c6cfd40eb&" width="19%">
         <img src="https://cdn.discordapp.com/attachments/788353524249001985/1289407319335112746/IMG_6255.png?ex=66f8b5a4&is=66f76424&hm=d809e684a207f77aad76cef9ec77b8d935714e5228890a153e34891a519fd382&" width="19%">
@@ -107,6 +113,6 @@
 <br>
 <br>
 <br>
-<p style="text-align: right"> ctto (all on x/twt 2024): aespa-@aespa_pclist , bts-@912daze , lsfm-@pocakkura </p>
+<p style="text-align: right"> ctto 9/24 </p>
 <body style="background-color: #e3e8ff;">
 </body>
